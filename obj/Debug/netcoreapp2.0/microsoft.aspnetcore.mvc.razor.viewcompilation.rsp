@@ -1,0 +1,14 @@
+F:\weektime
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=weektime
+--content-root=F:\weektime
+--file=F:\weektime\Views\Home\About.cshtml
+--file=F:\weektime\Views\Home\Contact.cshtml
+--file=F:\weektime\Views\Home\Index.cshtml
+--file=F:\weektime\Views\LoginOrReg\Login.cshtml
+--file=F:\weektime\Views\LoginOrReg\Register.cshtml
+--file=F:\weektime\Views\Shared\Error.cshtml
+--file=F:\weektime\Views\Shared\_Layout.cshtml
+--file=F:\weektime\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=F:\weektime\Views\_ViewImports.cshtml
+--file=F:\weektime\Views\_ViewStart.cshtml
