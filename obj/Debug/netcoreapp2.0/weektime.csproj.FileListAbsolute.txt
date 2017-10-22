@@ -1,0 +1,10 @@
+F:\weektime\bin\Debug\netcoreapp2.0\weektime.deps.json
+F:\weektime\bin\Debug\netcoreapp2.0\weektime.runtimeconfig.json
+F:\weektime\bin\Debug\netcoreapp2.0\weektime.runtimeconfig.dev.json
+F:\weektime\bin\Debug\netcoreapp2.0\weektime.dll
+F:\weektime\bin\Debug\netcoreapp2.0\weektime.pdb
+F:\weektime\obj\Debug\netcoreapp2.0\weektime.csproj.CoreCompileInputs.cache
+F:\weektime\obj\Debug\netcoreapp2.0\weektime.AssemblyInfoInputs.cache
+F:\weektime\obj\Debug\netcoreapp2.0\weektime.AssemblyInfo.cs
+F:\weektime\obj\Debug\netcoreapp2.0\weektime.dll
+F:\weektime\obj\Debug\netcoreapp2.0\weektime.pdb
